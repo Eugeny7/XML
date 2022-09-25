@@ -1,0 +1,7 @@
+<Person>
+	<name>Eygeny</name>
+	<surname>Puchkov</surmane>
+	<age>26<age/>
+        <animals>dog</animals>
+	<salary>1500$</salary>
+</Person>	
