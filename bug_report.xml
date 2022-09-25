@@ -1,1 +1,12 @@
-
+<BUGREPORT>
+  
+   <Bug_id>1</Bug_id>
+   <Description>The settings of the Small size widget do not open when you click on it on the main screen of the smartphone and / or in the application</Description>
+   <Enviroment>IPhone 11, IOS 15.2.1</Enviroment>
+   <Steps>Bring a small size widget to the main screen of your smartphone, Click in the central part of the widget</Steps>
+   <ER>Widget settings open</ER>
+   <AR>The site Currency opens</AR>
+   <Siverity>Major</Siverity>
+   <Priority>High</Priority>
+  
+</BUGREPORT>
